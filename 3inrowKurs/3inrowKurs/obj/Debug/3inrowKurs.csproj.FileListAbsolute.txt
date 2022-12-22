@@ -1,0 +1,31 @@
+E:\Education\2 курс\ПИОГИ 2 курс\3inrowKurs\3inrowKurs\bin\Debug\3inrowKurs.exe.config
+E:\Education\2 курс\ПИОГИ 2 курс\3inrowKurs\3inrowKurs\bin\Debug\3inrowKurs.exe
+E:\Education\2 курс\ПИОГИ 2 курс\3inrowKurs\3inrowKurs\bin\Debug\3inrowKurs.pdb
+E:\Education\2 курс\ПИОГИ 2 курс\3inrowKurs\3inrowKurs\obj\Debug\3inrowKurs.csproj.AssemblyReference.cache
+E:\Education\2 курс\ПИОГИ 2 курс\3inrowKurs\3inrowKurs\obj\Debug\3inrowKurs.csproj.SuggestedBindingRedirects.cache
+E:\Education\2 курс\ПИОГИ 2 курс\3inrowKurs\3inrowKurs\obj\Debug\MainWindow.g.cs
+E:\Education\2 курс\ПИОГИ 2 курс\3inrowKurs\3inrowKurs\obj\Debug\App.g.cs
+E:\Education\2 курс\ПИОГИ 2 курс\3inrowKurs\3inrowKurs\obj\Debug\3inrowKurs_MarkupCompile.cache
+E:\Education\2 курс\ПИОГИ 2 курс\3inrowKurs\3inrowKurs\obj\Debug\3inrowKurs_MarkupCompile.lref
+E:\Education\2 курс\ПИОГИ 2 курс\3inrowKurs\3inrowKurs\obj\Debug\MainWindow.baml
+E:\Education\2 курс\ПИОГИ 2 курс\3inrowKurs\3inrowKurs\obj\Debug\3inrowKurs.g.resources
+E:\Education\2 курс\ПИОГИ 2 курс\3inrowKurs\3inrowKurs\obj\Debug\_3inrowKurs.Properties.Resources.resources
+E:\Education\2 курс\ПИОГИ 2 курс\3inrowKurs\3inrowKurs\obj\Debug\3inrowKurs.csproj.GenerateResource.cache
+E:\Education\2 курс\ПИОГИ 2 курс\3inrowKurs\3inrowKurs\obj\Debug\3inrowKurs.csproj.CoreCompileInputs.cache
+E:\Education\2 курс\ПИОГИ 2 курс\3inrowKurs\3inrowKurs\obj\Debug\3inrowKurs.exe
+E:\Education\2 курс\ПИОГИ 2 курс\3inrowKurs\3inrowKurs\obj\Debug\3inrowKurs.pdb
+C:\Слава\Education\2 курс\ПИОГИ\3inrowKurs\3inrowKurs\bin\Debug\3inrowKurs.exe.config
+C:\Слава\Education\2 курс\ПИОГИ\3inrowKurs\3inrowKurs\bin\Debug\3inrowKurs.exe
+C:\Слава\Education\2 курс\ПИОГИ\3inrowKurs\3inrowKurs\bin\Debug\3inrowKurs.pdb
+C:\Слава\Education\2 курс\ПИОГИ\3inrowKurs\3inrowKurs\obj\Debug\3inrowKurs.csproj.AssemblyReference.cache
+C:\Слава\Education\2 курс\ПИОГИ\3inrowKurs\3inrowKurs\obj\Debug\MainWindow.g.cs
+C:\Слава\Education\2 курс\ПИОГИ\3inrowKurs\3inrowKurs\obj\Debug\App.g.cs
+C:\Слава\Education\2 курс\ПИОГИ\3inrowKurs\3inrowKurs\obj\Debug\3inrowKurs_MarkupCompile.cache
+C:\Слава\Education\2 курс\ПИОГИ\3inrowKurs\3inrowKurs\obj\Debug\3inrowKurs_MarkupCompile.lref
+C:\Слава\Education\2 курс\ПИОГИ\3inrowKurs\3inrowKurs\obj\Debug\MainWindow.baml
+C:\Слава\Education\2 курс\ПИОГИ\3inrowKurs\3inrowKurs\obj\Debug\3inrowKurs.g.resources
+C:\Слава\Education\2 курс\ПИОГИ\3inrowKurs\3inrowKurs\obj\Debug\_3inrowKurs.Properties.Resources.resources
+C:\Слава\Education\2 курс\ПИОГИ\3inrowKurs\3inrowKurs\obj\Debug\3inrowKurs.csproj.GenerateResource.cache
+C:\Слава\Education\2 курс\ПИОГИ\3inrowKurs\3inrowKurs\obj\Debug\3inrowKurs.csproj.CoreCompileInputs.cache
+C:\Слава\Education\2 курс\ПИОГИ\3inrowKurs\3inrowKurs\obj\Debug\3inrowKurs.exe
+C:\Слава\Education\2 курс\ПИОГИ\3inrowKurs\3inrowKurs\obj\Debug\3inrowKurs.pdb
